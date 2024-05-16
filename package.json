@@ -1,12 +1,12 @@
 {
   "name": "api-mongodb",
   "version": "1.0.0",
-  "description": "api para cadastro de livros fazendo operações de CRUD",
+  "description": "API para cadastro de livros fazendo operações de CRUD",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gabriel Guerra",
+  "author": "Rebeka DIas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
