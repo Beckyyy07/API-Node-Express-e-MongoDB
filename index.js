@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 
 mongoose
   .connect(
-    "mongodb+srv://GabrielGuerra:sySrYZ83SulgEZEw@livros.mojk6by.mongodb.net/?retryWrites=true&w=majority&appName=Livros"
+    ""
   )
   .then(() => {
     console.log("Conectado ao banco de dados");
